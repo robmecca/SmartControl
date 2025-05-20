@@ -1,3 +1,6 @@
 /.DS_Store
 /__pycache__
 /depth.ckpt
+
+/train/models/
+/train/data/
